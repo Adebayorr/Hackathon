@@ -1,0 +1,82 @@
+/* #9430ff  280052 / fab928 3c8d2e /  */
+* {
+    box-sizing: border-box;
+
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+
+    position: relative;
+    margin: 0;
+    background: linear-gradient(90deg, #00f260 0%, #0575e6 100%);
+    background-size: cover;
+    back
+}
+
+
+/* div {
+    display: block;
+}
+.main {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position: relative;
+}
+
+.top--right__white {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 10vh;
+    width: 10vw;
+    background: #ffff;
+    z-index: 2;
+}  
+
+.top--right__purple {
+    position: absolute;
+    padding: 25px;
+    top: -10vh;
+    left: -3vh;
+    height: 90vh;
+    width: 40vw;
+    background: #9430ff;
+    border-radius: 0px 250px 350px 25px;
+    z-index: 0;
+}
+
+.main--form {
+    z-index: 5;
+    height: 500px;
+    width: 750px;
+    background: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.21);
+    position: absolute;
+    top: 10%;
+    left: 5%;
+
+
+}
+
+.gray-fill {
+    width: 100%;
+    height: 50px;
+    background: rgba(176, 174, 174, 0.627);
+    margin-bottom: 15px;
+}
+
+.gray-fill + form {
+    margin-left: 70px;
+}
+
+.gray-fill + form > input {
+    padding: 10px auto;
+} */
